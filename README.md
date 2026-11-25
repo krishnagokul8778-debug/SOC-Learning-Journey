@@ -21,6 +21,8 @@ Investigations from practice labs, written up step by step.
 | [Conti Ransomware Investigation](writeups/blue-team/tryhackme-conti-ransomware.md) | TryHackMe | Splunk | Sysmon event analysis, web shell discovery, kill chain reconstruction |
 | [Windows Event Logs I](writeups/blue-team/ine-kibana-windows-event-logs.md) | INE | Kibana | KQL hunting, command-line analysis, MITRE ATT&CK mapping |
 
+Red team / CTF practice (how attacks work, which helps detection): [offensive-security-writeups](https://github.com/krishnagokul8778-debug/offensive-security-writeups)
+
 ## Skills & Learning
 - Security Operations Center (SOC)
 - Active Directory
