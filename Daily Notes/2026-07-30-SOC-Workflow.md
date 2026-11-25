@@ -25,7 +25,7 @@ threat detection workflow - Collect → Normalize → Correlate → Detect → A
 
 why organisation need soc team - 
 
-INE Credentials - password - dQmS6HB!dWV38@t
+INE Credentials — stored privately (not in this repo).
 
 Watch SOC videos in INE 
 
