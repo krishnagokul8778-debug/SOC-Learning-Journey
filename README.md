@@ -12,6 +12,15 @@ This repository showcases my hands-on cybersecurity journey through study notes,
 | [SOC Detection Lab (Splunk)](https://github.com/krishnagokul8778-debug/soc-detection-lab) | Splunk + Sysmon home lab with 29 MITRE ATT&CK detections and 6 investigated incidents, including Active Directory attacks |
 | [Wazuh SOC Lab](https://github.com/krishnagokul8778-debug/wazuh-soc-lab) | Wazuh SIEM monitoring a Windows endpoint and domain controller, with 4 custom detection rules and 4 investigated incidents |
 
+## Write-ups
+
+Investigations from practice labs, written up step by step.
+
+| Write-up | Platform | Tool | Skills |
+|---|---|---|---|
+| [Conti Ransomware Investigation](writeups/blue-team/tryhackme-conti-ransomware.md) | TryHackMe | Splunk | Sysmon event analysis, web shell discovery, kill chain reconstruction |
+| [Windows Event Logs I](writeups/blue-team/ine-kibana-windows-event-logs.md) | INE | Kibana | KQL hunting, command-line analysis, MITRE ATT&CK mapping |
+
 ## Skills & Learning
 - Security Operations Center (SOC)
 - Active Directory
